@@ -1,0 +1,19 @@
+{
+  "name": "gauge-plugin",
+  "version": "1.0.0",
+  "description": "GaugeJS Plugin System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gauge",
+    "gauge-js",
+    "plugin"
+  ],
+  "author": "Maxim Yaskevich <yaskevichmaxim@gmail.com>",
+  "license": "GPLv3",
+  "devDependencies": {
+    "standard": "^8.4.0"
+  }
+}
